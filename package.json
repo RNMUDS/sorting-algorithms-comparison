@@ -1,0 +1,15 @@
+{
+  "name": "sorting-algorithms-comparison",
+  "version": "1.0.0",
+  "description": "様々なソートアルゴリズムの性能を比較し、動作を視覚的に理解できるWebアプリケーションです。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^24.10.0"
+  }
+}

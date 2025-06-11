@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Logs
+*.log
+app.log
+output.log
+
+# Gradio
+gradio_data/
+flagged/
+
+# Screenshots and temporary files
+*.png
+!README.md
+temp/
+tmp/
+
+# Node modules (for Puppeteer)
+node_modules/
+package-lock.json
+
+# Environment variables
+.env
+.env.local
